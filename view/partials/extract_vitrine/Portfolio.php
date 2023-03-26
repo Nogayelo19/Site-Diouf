@@ -1,14 +1,19 @@
 <!-- ======= Cta Section ======= -->
+
 <section id="cta" class="cta">
       <div class="container">
 
         <div class="row">
           <div class="col-lg-9 text-center text-lg-start">
-            <h3>Call To Action</h3>
-            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h3>Béthel coaching</h3>
+            <p> Béthel coaching a des experts dans tous les domaines de nos interventions.
+               C'est pour vous aider à devenir la personne que vous devez réellement devenir,
+                à atteindre vos objectifs, à transformer vos rêves en pouvoir et vos visions
+                 à des à des réalités. Car c'est la seule solution pour une vie épanouie
+               et une entreprise prospère. Vous pouvez vivre vos rêves avec Béthel coaching.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Call To Action</a>
+            <a class="cta-btn align-middle" href="#">Appel à l'action</a>
           </div>
         </div>
   
@@ -16,26 +21,147 @@
     </section>
 <!-- End Cta Section -->
 
-<section id="portfolio" class="portfolio">
-      <div class="container">
+ <!--service debut-->
 
-        <div class="section-title">
-          <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
+ <section class="service" >
+  <style>
+    .service
+{
+    margin: 75px 0;
+}
+.title
+{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.subtitle
+{
+  color:black;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+.service-box
+{
+  text-align: center;
+  margin-bottom: 20px;
+  box-shadow: 0px 0px 12px 0px rgba(34, 34, 34, 0.07);
+  padding: 30px 20px;
+  background: #fff;
+}
+.service-box img{
+  max-width: 60%;
+  border-radius: 50%;
+  margin: 0 0 30px 0;
+}
 
-        <div class="row">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
-            </ul>
-          </div>
-        </div>
 
-        <div class="row portfolio-container">
+.service-box h6{
+    margin-bottom: 45px;
+    font-weight: bold;
+
+}
+.service-box p
+{
+    font-size: 14px;
+    color: gray;
+}
+.fa-arrow-right
+{
+    font-size: 22px!important;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    cursor: pointer;
+}
+.service-box:hover ,.active-service
+{
+    background: #5cb874;
+    border-radius: 5px;
+    color: white!important;
+    box-shadow: 0 15px 15px 0 rgba(213,213,213,0.5);
+}
+.service-box:hover p
+{
+    color: white!important;
+}
+.active-service p
+{
+    color: white;
+}
+.feature,.explore
+{
+    margin: 150px 0;
+
+}
+.feature img
+{
+    max-width: 77%;
+    cursor: pointer;
+}
+.feature h2
+{
+    font-weight: bold;
+    line-height: 50px;
+
+}
+.feature, .explore p
+{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: gray;
+    font-size: 14px;
+    line-height: 1px;
+}
+  </style>
+
+<div class="container">
+  
+  <h2 class="title" id="FORMATIONS">CATALOGUE DE FORMATION</h2>
+  <p class="subtitle">Nos ateliers formations sont destinées : </p>
+  <div class="row">
+    
+    <div class="col-md-4" >
+      <div class="service-box">
+        <img src="public/templates/template_vitrine/assets/img/imgpropre/enf.jpg" alt=""  width="100" height="100">
+        <h6>- AUX ENFANTS</h6>
+        <p>aux enfants pour bâtir très tôt la confiance 
+          et l'estime de soi en eux 
+        </p>
+
+          <i class="fa fa-arrow-right"></i>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="service-box active-service">
+        <img src="public/templates/template_vitrine/assets/img/imgpropre/jeun.jpg" alt=""  width="100" height="100">
+        <h6>-AUX JEUNES</h6>
+        <p>aux jeunes pour changer leurs peurs à des pouvoirs
+
+        </p>
+
+          <i class="fa fa-arrow-right"></i>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="service-box">
+        <img src="public/templates/template_vitrine/assets/img/imgpropre/entre.jpg" alt=""  width="100" height="100">
+        <h6>-AUX ENTREPRISES</h6>
+        <p> aux entreprises pour booster leurs potentiels pour une entreprise prospère.
+ </p>
+
+          <i class="fa fa-arrow-right"></i>
+      </div>
+    </div>
+    <p class="subtitle">Nous avons aussi des formations en ligne pour aider le maximum de personnes.
+
+</p>
+
+  </div>
+</div>
+</section>
+<!--service fin-->
+        <!-- <div class="row portfolio-container">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
@@ -166,4 +292,4 @@
         </div>
 
       </div>
-    </section>
+    </section> --> 
