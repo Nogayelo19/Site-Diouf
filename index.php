@@ -68,7 +68,7 @@
 <!-- End Services Section -->
 
 <!-- ======= Portfolio Section ======= -->
-<?php require_once('view/partials/extract_vitrine/Portfolio.php') ?>
+<?php require_once('view/partials/extract_vitrine/formation.php') ?>
 <!-- End Portfolio Section -->
 
  <!-- ======= Team Section ======= -->

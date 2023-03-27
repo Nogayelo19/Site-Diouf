@@ -114,10 +114,10 @@
     line-height: 1px;
 }
   </style>
-
+  </section>
+<section id="formation" class="formation">
 <div class="container">
-  
-  <h2 class="title" id="FORMATIONS">CATALOGUE DE FORMATION</h2>
+  <h2 class="title">CATALOGUE DE FORMATION</h2>
   <p class="subtitle">Nos ateliers formations sont destinées : </p>
   <div class="row">
     
@@ -159,7 +159,8 @@
 
   </div>
 </div>
-</section>
+ </section>
+
 <!--service fin-->
         <!-- <div class="row portfolio-container">
 
