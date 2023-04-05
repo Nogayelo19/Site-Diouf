@@ -1,78 +1,92 @@
-<section id="about" class="about">
-      <div class="container">
+<section id="about" class="about section-bg">
+              <div class="container">
+              <link href="public/templates/template_vitrine/assets/css/styleApropos.css" rel="stylesheet">
+             <div class="row">
+             <div class="col-lg-6 order-1 order-lg-2">
+             </div>
+             <div class="section-container">
 
-        <div class="section-title">
-          <h2>About Us</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
+             <div class="columns image" style="background-image:url('public/templates/template_vitrine/assets/img/1.jpg')" >
+             &nbsp;
+             </div>
+            <div class="columns content" class="content ps-0 ps-lg-5" >
+              
+            <div class="content-container">
+            <div class="section-title">
+                <h2>A propos </h2>
+                
+                <p >
+                BÉTHEL COACHING signifie la porte des cieux pour une transformation parfaite en vue d'incarner la vraie VERSION DE VOUS-MÊME. La porte des cieux signifie la LUMIÈRE qui nous permet de nous découvrir pour nous VALORISER à travers l'acceptation de soi.<br><br>
+                 Car les ténèbres de la pensée nous prive de notre vraie IDENTITÉ.
+                 Et nous croyons que chaque être humain est une bénédiction pour lui-même, sa famille, son entourage, son entreprise, sa communauté et au-delà à travers son POTENTIEL. Mais avant de manifester cette bénédiction, il faut d'abord se découvrir et s'accepter.<br><br> Car c'est ainsi que le lion qui dort en nous se réveillera et notre vie deviendra une vraie histoire D'IMPACT et D'INFLUENCE.
+                Avec l'expérience et en force de conseiller les gens, on a finit par comprendre que beaucoup de personnes ont un seul problème: c'est être étrangère envers soi-même <br><br>. Beaucoup ignore leur vraie identité par faute de connaissance. C'est pourquoi ils souffrent et ne sont pas heureux ni capable de se valoriser.
+                C'est ainsi, qu'on a décidé de mettre BÉTHEL COACHING sur place pour aider beaucoup de personnes  à se découvrir pour accomplir parfaitement la mission GLORIEUSE de leur existence à travers la valorisation de leurs POTENTIEL qui était caché en eux. Mais surtout de pouvoir vivre leur vraie vie.</p>
+              </div>
+               </div>
+              </div>
+              </div>
+             </div>
+             </section>
+              </section>
+               <section id="why-us" class="why-us">
+             <div class="container">
+             <div class="row no-gutters">
 
-        <div class="row">
-          <div class="col-lg-6 order-1 order-lg-2">
-            <img src="public/templates/template_vitrine/assets/img/about.jpg" class="img-fluid" alt="">
+            <div class="col-lg-6 content-item">
+            <div class="section-title">
+         
+            <h2>Présentation</h2>
+            <p color:#000; >Bienvenue à Béthel coaching (la porte des cieux).
+            Béthel coaching a des experts dans tous les domaines de nos interventions. C'est pour vous aider à devenir la personne que vous devez réellement devenir, à atteindre vos objectifs, à transformer vos rêves en pouvoir et vos visions à des à des réalités. <br>Car c'est la seule solution pour une vie épanouie et une entreprise prospère.Vous pouvez vivre vos rêves avec Béthel coaching</p>
+           </div>
+           </div>
+           <div class="col-lg-6 content-item">
+            <div class="section-title">
+            <h2> Notre Vission</h2>
+            <p>Notre ambition est claie: Être là LUMIÈRE du savoir en développement personnel et professionnel qui inspire, révèle, innove et impact son environnement à travers:
+             la qualité  de son enseignement et de ses programmes ;
+             son influence et son engagement au sein des communautés locales, nationales et internationales ; son approche humaine, responsable et coopérative.  Notre ambition : bouillonne en nous car nous rêvons voir un MONDE MEILLEUR PAR TOUS ET POUR TOUS.
+             Avec Béthel coaching vous devenez réellement un acteur pour le changement et non un amateur.</p>
+            </div>
+            </div>
+
+            <div class="col-lg-6 content-item">
+           <div class="section-title">
+            <h2>Mission </h2>
+            <p>Nous sommes une entreprise de formation et de coaching dont l'accent est mis sur 
+              le développement du potentiel de l'humain à travers des outils et des attitudes 
+              qui permettent la personne de s'affermir en transformant ses peurs et ses doutes à des POUVOIRS REDOUTABLES.
+              Nous aidons les professionnels a découvrir des solutions efficaces et efficientes pour atteindre leurs objectifs.
+             Le contenu des nos programmes de formation et de coaching visent à éclairer votre pensée, de l'efficacité, de l'innovation, à élever votre niveau de leadership, à bâtir des relations solides pour un IMPACT CONSIDÉRABLE.
+             Nous croyons que si chacun exprime son potentiel nous pouvons bâtir un monde meilleur.</p>
+            </div>
+            </div>
+            <div class="col-lg-6 content-item">
+             <div class="section-title">
+            <h2>Nos valeurs</h2>
+            <p> <strong> -Dieu :</strong>
+              Nous croyons que pour exister dignement,il faut d'abord accepter que Dieu existe en toi. 
+              Carr sans la FOI nous pouvons pas rien accomplir de bon.
+              C'est avec la Foi que nous pouvons 
+              manifester notre humanisme à travers l'Esprit de Dieu en nous.<br>
+             <strong> -Lhomme : </strong>
+              Nous croyons que la chose la plus importante sur terre c'est l'être humain. C'est pourquoi il mérite le meilleur et pour le faire,il faut L'AMOUR. Il est le lien de la PERFECTION entre les êtres humains malgré leurs différences.<br>
+             <strong> -Connaissance : </strong>
+             Nous croyons que le secret de la grandeur et de la gloire de l'homme c'est la CONNAISSANCE.Car faut le de connaissance, le peuple périt.
+             C 'est la connaissance qui nous permet de découvrir notre talent.<br>
+             <strong> -Organisation :</strong>
+            L'échec de la plupart des entreprises, projets ou des vies viennent d'un manque d'organisation. L'organisation est la clé de la RÉUSSITE.
+            Alors nos valeurs (Foi-Amour-Connaissance-Organisation) sont le fondement de l'existence et d'une vie bien accomplie.
+
+             </p>
           </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="bi bi-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
-          </div>
+
+        
+
         </div>
 
       </div>
     </section>
-    <section id="why-us" class="why-us">
-      <div class="container">
 
-        <div class="row no-gutters">
 
-          <div class="col-lg-4 col-md-6 content-item">
-            <span>01</span>
-            <h4>Lorem Ipsum</h4>
-            <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
-          </div>
-
-          <div class="col-lg-4 col-md-6 content-item">
-            <span>02</span>
-            <h4>Repellat Nihil</h4>
-            <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
-          </div>
-
-          <div class="col-lg-4 col-md-6 content-item">
-            <span>03</span>
-            <h4> Ad ad velit qui</h4>
-            <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
-          </div>
-
-          <div class="col-lg-4 col-md-6 content-item">
-            <span>04</span>
-            <h4>Repellendus molestiae</h4>
-            <p>Inventore quo sint a sint rerum. Distinctio blanditiis deserunt quod soluta quod nam mider lando casa</p>
-          </div>
-
-          <div class="col-lg-4 col-md-6 content-item">
-            <span>05</span>
-            <h4>Sapiente Magnam</h4>
-            <p>Vitae dolorem in deleniti ipsum omnis tempore voluptatem. Qui possimus est repellendus est quibusdam</p>
-          </div>
-
-          <div class="col-lg-4 col-md-6 content-item">
-            <span>06</span>
-            <h4>Facilis Impedit</h4>
-            <p>Quis eum numquam veniam ea voluptatibus voluptas. Excepturi aut nostrum repudiandae voluptatibus corporis sequi</p>
-          </div>
-
-        </div>
-
-      </div>
-    </section>
+    

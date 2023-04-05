@@ -57,6 +57,7 @@
   <?php require_once('view/partials/extract_vitrine/Apropos.php') ?>
 <!-- End About Us Section -->
 
+
 <!-- ======= Partinaire Section ======= -->
 <?php require_once('view/partials/extract_vitrine/partiniare.php') ?>
  
