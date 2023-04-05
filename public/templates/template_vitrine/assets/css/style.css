@@ -1,4 +1,19 @@
+
+
+
+/**
+* Template Name: Green - v4.10.0
+* Template URL: https://bootstrapmade.com/green-free-one-page-bootstrap-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+
 @import url('https://fonts.googleapis.com/css2?family-Redressed&family-Merriweather:wght@300;400;500&display-swap');
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -589,7 +604,7 @@ section {
 .section-title p {
   margin-bottom: 0;
   font-size: 14px;
-  color: #919191;
+  color: #161616;
 }
 
 /*--------------------------------------------------------------
@@ -696,7 +711,7 @@ section {
 }
 
 .why-us .content-item p {
-  color: #aaaaaa;
+  color: #0f0e0e;
   font-size: 15px;
   margin: 0;
   padding: 0;

@@ -19,37 +19,37 @@
   
       </div>
     </section>
-<!-- End Cta Section -->
+      <!-- End Cta Section -->
 
- <!--service debut-->
+         <!--service debut-->
 
- <section class="service" >
+          <section class="service" >
   <style>
     .service
-{
+       {
     margin: 75px 0;
-}
-.title
-{
+    }
+        .title
+      {
     text-align: center;
     font-weight: bold;
     margin-bottom: 30px;
-}
+     }
 .subtitle
-{
+     {
   color:black;
     text-align: center;
     margin-bottom: 30px;
     font-size: 15px;
-}
-.service-box
-{
+      }
+   .service-box
+      {
   text-align: center;
   margin-bottom: 20px;
   box-shadow: 0px 0px 12px 0px rgba(34, 34, 34, 0.07);
   padding: 30px 20px;
   background: #fff;
-}
+   }
 .service-box img{
   max-width: 60%;
   border-radius: 50%;
