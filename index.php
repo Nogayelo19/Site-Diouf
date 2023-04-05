@@ -37,7 +37,9 @@
 
 <body>
 
-
+<style>
+@import url('https://fonts.googleapis.com/css2?family-Redressed&family-Merriweather:wght@300;400;500&display-swap');
+</style>
 
   <!-- ========= Head ========= -->
   <?php require_once('view/partials/extract_vitrine/menu.php') ?>
@@ -51,17 +53,14 @@
 
   <main id="main">
  <!-- ======= Featured Services Section ======= -->
-
-
-<!-- ======= About Us Section ======= -->
-  <?php require_once('view/partials/extract_vitrine/Apropos.php') ?>
-<!-- End About Us Section -->
-
 <!-- ======= Partinaire Section ======= -->
 <?php require_once('view/partials/extract_vitrine/partiniare.php') ?>
  
 <!-- Partinaire Section -->
 
+<!-- ======= About Us Section ======= -->
+  <?php require_once('view/partials/extract_vitrine/Apropos.php') ?>
+<!-- End About Us Section -->
 <!-- ======= Services Section ======= -->
 <?php require_once('view/partials/extract_vitrine/service.php') ?>
    
@@ -72,7 +71,7 @@
 <!-- End Portfolio Section -->
 
  <!-- ======= Team Section ======= -->
-<?php require_once('view/partials/extract_vitrine/equipe.php') ?>
+<?php require_once('view/partials/extract_vitrine/conference.php') ?>
 <!-- End Team Section -->
 
 <!-- ======= Contact Section ======= -->
