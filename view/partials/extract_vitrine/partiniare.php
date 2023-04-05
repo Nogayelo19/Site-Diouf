@@ -2,7 +2,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Nos Partenaire</h2>
+          <!-- <h2>Nos Partenaire</h2> -->
         </div>
 
         <div class="clients-slider swiper">

@@ -78,4 +78,12 @@
         </div>
 
       </div>
+  <style>
+        .team .member img 
+      {
+         max-width: 60%;
+         border-radius: 20%;
+         margin: 0 0 30px 0;
+      }
+  </style>
     </section>

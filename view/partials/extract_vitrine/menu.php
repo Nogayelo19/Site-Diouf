@@ -21,7 +21,7 @@
         <img src="public/templates/template_vitrine/assets/img/logo.png" width="100%">
       </a></h1>
 
- 
+
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="public/templates/template_vitrine/assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -57,4 +57,17 @@
       </nav><!-- .navbar -->
 
     </div>
+    <style>
+      #header .logo a 
+    {
+        color: #5cb874;
+    }
+
+     #header .logo img 
+    {
+       max-height: 100px;
+       width: 160%;
+    }
+
+    </style>
   </header>

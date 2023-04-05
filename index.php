@@ -39,6 +39,13 @@
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family-Redressed&family-Merriweather:wght@300;400;500&display-swap');
+
+  
+  body{
+  font-family:  'Merriweather',serif;
+  color: #000;
+}
+
 </style>
 
   <!-- ========= Head ========= -->
@@ -84,6 +91,7 @@
   <?php require_once('view/partials/extract_vitrine/footer.php') ?>
 <!-- End Footer -->
 
+
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
@@ -96,6 +104,8 @@
   <!-- Template Main JS File -->
   <script src="public/templates/template_vitrine/assets/js/main.js"></script>
 
+
 </body>
+
 
 </html>
