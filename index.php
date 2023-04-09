@@ -61,18 +61,15 @@
   <main id="main">
  <!-- ======= Featured Services Section ======= -->
 
-
+<!-- ======= Partinaire Section ======= -->
+<?php require_once('view/partials/extract_vitrine/partiniare.php') ?>
+ 
+<!-- Partinaire Section -->
 
 <!-- ======= About Us Section ======= -->
   <?php require_once('view/partials/extract_vitrine/Apropos.php') ?>
 <!-- End About Us Section -->
 
-
-
-<!-- ======= Partinaire Section ======= -->
-<?php require_once('view/partials/extract_vitrine/partiniare.php') ?>
- 
-<!-- Partinaire Section -->
 
 <!-- ======= About Us Section ======= -->
   <?php require_once('view/partials/extract_vitrine/Apropos.php') ?>

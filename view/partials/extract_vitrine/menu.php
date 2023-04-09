@@ -12,7 +12,7 @@
       </div>
     </div>
   </section>
-
+.
 
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center">
@@ -26,7 +26,7 @@
       <!-- <a href="index.html" class="logo me-auto"><img src="public/templates/template_vitrine/assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar">
-        <ul>
+      <ul>
         <li><a class="nav-link scrollto" href="#hero">ACCUEIL</a></li>
         <li class="dropdown"><a href="#about"><span>A PROPOS</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -45,7 +45,7 @@
               <li><a href="#services">- Création d'entreprise</a></li>
               <li><a href="#services">-Batir un foyer de délice</a></li>
 
-            </ul>
+          </ul>
         </li>
         <li class="nav-link scrollto"><a href="#cta">COACHING</a></li>
         <li><a class="nav-link scrollto " href="#formation">FORMTION</a></li>
@@ -66,7 +66,7 @@
      #header .logo img 
     {
        max-height: 100px;
-       width: 160%;
+       width: 100%;
     }
 
     </style>
