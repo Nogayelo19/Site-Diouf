@@ -16,11 +16,11 @@
                 <h2>A propos </h2>
                 
                 <p >
-                BÉTHEL COACHING signifie la porte des cieux pour une transformation parfaite en vue d'incarner la vraie VERSION DE VOUS-MÊME. La porte des cieux signifie la LUMIÈRE qui nous permet de nous découvrir pour nous VALORISER à travers l'acceptation de soi.<br><br>
+               <b> BARKE NO KIN </b> la porte des cieux pour une transformation parfaite en vue d'incarner la vraie VERSION DE VOUS-MÊME. La porte des cieux signifie la LUMIÈRE qui nous permet de nous découvrir pour nous VALORISER à travers l'acceptation de soi.<br><br>
                  Car les ténèbres de la pensée nous prive de notre vraie IDENTITÉ.
                  Et nous croyons que chaque être humain est une bénédiction pour lui-même, sa famille, son entourage, son entreprise, sa communauté et au-delà à travers son POTENTIEL. Mais avant de manifester cette bénédiction, il faut d'abord se découvrir et s'accepter.<br><br> Car c'est ainsi que le lion qui dort en nous se réveillera et notre vie deviendra une vraie histoire D'IMPACT et D'INFLUENCE.
                 Avec l'expérience et en force de conseiller les gens, on a finit par comprendre que beaucoup de personnes ont un seul problème: c'est être étrangère envers soi-même <br><br>. Beaucoup ignore leur vraie identité par faute de connaissance. C'est pourquoi ils souffrent et ne sont pas heureux ni capable de se valoriser.
-                C'est ainsi, qu'on a décidé de mettre BÉTHEL COACHING sur place pour aider beaucoup de personnes  à se découvrir pour accomplir parfaitement la mission GLORIEUSE de leur existence à travers la valorisation de leurs POTENTIEL qui était caché en eux. Mais surtout de pouvoir vivre leur vraie vie.</p>
+                C'est ainsi, qu'on a décidé de mettre Barké No Kin sur place pour aider beaucoup de personnes  à se découvrir pour accomplir parfaitement la mission GLORIEUSE de leur existence à travers la valorisation de leurs POTENTIEL qui était caché en eux. Mais surtout de pouvoir vivre leur vraie vie.</p>
               </div>
                </div>
               </div>
@@ -36,8 +36,8 @@
             <div class="section-title">
          
             <h2>Présentation</h2>
-            <p color:#000; >Bienvenue à Béthel coaching (la porte des cieux).
-            Béthel coaching a des experts dans tous les domaines de nos interventions. C'est pour vous aider à devenir la personne que vous devez réellement devenir, à atteindre vos objectifs, à transformer vos rêves en pouvoir et vos visions à des à des réalités. <br>Car c'est la seule solution pour une vie épanouie et une entreprise prospère.Vous pouvez vivre vos rêves avec Béthel coaching</p>
+            <p color:#000; >Bienvenue à Barké No Kin (la porte des cieux).
+            Barké No Kin a des experts dans tous les domaines de nos interventions. C'est pour vous aider à devenir la personne que vous devez réellement devenir, à atteindre vos objectifs, à transformer vos rêves en pouvoir et vos visions à des à des réalités. <br>Car c'est la seule solution pour une vie épanouie et une entreprise prospère.Vous pouvez vivre vos rêves avec Barké No Kin</p>
            </div>
            </div>
            <div class="col-lg-6 content-item">
@@ -46,7 +46,7 @@
             <p>Notre ambition est claie: Être là LUMIÈRE du savoir en développement personnel et professionnel qui inspire, révèle, innove et impact son environnement à travers:
              la qualité  de son enseignement et de ses programmes ;
              son influence et son engagement au sein des communautés locales, nationales et internationales ; son approche humaine, responsable et coopérative.  Notre ambition : bouillonne en nous car nous rêvons voir un MONDE MEILLEUR PAR TOUS ET POUR TOUS.
-             Avec Béthel coaching vous devenez réellement un acteur pour le changement et non un amateur.</p>
+             Avec Barké No Kin vous devenez réellement un acteur pour le changement et non un amateur.</p>
             </div>
             </div>
 
@@ -64,17 +64,17 @@
             <div class="col-lg-6 content-item">
              <div class="section-title">
             <h2>Nos valeurs</h2>
-            <p> <strong> -Dieu :</strong>
+            <p> <b> Dieu :</b>
               Nous croyons que pour exister dignement,il faut d'abord accepter que Dieu existe en toi. 
               Carr sans la FOI nous pouvons pas rien accomplir de bon.
               C'est avec la Foi que nous pouvons 
               manifester notre humanisme à travers l'Esprit de Dieu en nous.<br>
-             <strong> -Lhomme : </strong>
+             <b> Lhomme : </b>
               Nous croyons que la chose la plus importante sur terre c'est l'être humain. C'est pourquoi il mérite le meilleur et pour le faire,il faut L'AMOUR. Il est le lien de la PERFECTION entre les êtres humains malgré leurs différences.<br>
-             <strong> -Connaissance : </strong>
+             <b> Connaissance : </b>
              Nous croyons que le secret de la grandeur et de la gloire de l'homme c'est la CONNAISSANCE.Car faut le de connaissance, le peuple périt.
              C 'est la connaissance qui nous permet de découvrir notre talent.<br>
-             <strong> -Organisation :</strong>
+             <b> Organisation :</b>
             L'échec de la plupart des entreprises, projets ou des vies viennent d'un manque d'organisation. L'organisation est la clé de la RÉUSSITE.
             Alors nos valeurs (Foi-Amour-Connaissance-Organisation) sont le fondement de l'existence et d'une vie bien accomplie.
 

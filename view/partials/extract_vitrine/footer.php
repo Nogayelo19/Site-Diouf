@@ -92,29 +92,30 @@
 				</div>
 			</div>
 								
-								<div class="col-lg-6 col-md-12 col-sm-12 wow fadeIn" data-wow-delay="0.6s">
-									<div class="icon-bx-wraper bx-style-1 p-a30 radius-sm br-col-w1 bg-tpw1">
-										<p>
-										BÉTHEL COACHING signifie la porte des cieux pour une transformation 
-										parfaite en vue d'incarner la vraie VERSION DE VOUS-MÊME.
-										La porte des cieux signifie la LUMIÈRE qui nous permet de nous découvrir pour nous VALORISER à 
-										travers l'acceptation de soi.<br><br>
-								       Car les ténèbres de la pensée nous prive de notre vraie IDENTITÉ.
-								       Et nous croyons que chaque être humain est une bénédiction pour lui-même, sa famille, son entourage, son entreprise, sa communauté et au-delà à travers son POTENTIEL.
-								       Mais avant de manifester cette bénédiction, il faut d'abord se découvrir et s'accepter.<br><br>
-									   C'est ainsi, qu'on a décidé de mettre BÉTHEL COACHING sur place pour aider beaucoup de personnes  à se découvrir pour accomplir parfaitement la mission GLORIEUSE de leur existence à travers la valorisation de leurs POTENTIEL qui était caché en eux. 
-									   Mais surtout de pouvoir vivre leur vraie vie. 
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					</div>
+			<div class="col-lg-6 col-md-12 col-sm-12 wow fadeIn" data-wow-delay="0.6s">
+			<div class="icon-bx-wraper bx-style-1 p-a30 radius-sm br-col-w1 bg-tpw1">
+			<p>
+								BÉTHEL COACHING signifie la porte des cieux pour une transformation 
+															parfaite en vue d'incarner la vraie VERSION DE VOUS-MÊME.
+															La porte des cieux signifie la LUMIÈRE qui nous permet de nous découvrir pour nous VALORISER à 
+															travers l'acceptation de soi.<br><br>
+														Car les ténèbres de la pensée nous prive de notre vraie IDENTITÉ.
+														Et nous croyons que chaque être humain est une bénédiction pour lui-même, sa famille, son entourage, son entreprise, sa communauté et au-delà à travers son POTENTIEL.
+														Mais avant de manifester cette bénédiction, il faut d'abord se découvrir et s'accepter.<br><br>
+														C'est ainsi, qu'on a décidé de mettre BÉTHEL COACHING sur place pour aider beaucoup de personnes  à se découvrir pour accomplir parfaitement la mission GLORIEUSE de leur existence à travers la valorisation de leurs POTENTIEL qui était caché en eux. 
+														Mais surtout de pouvoir vivre leur vraie vie. 
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+										</div>
 			<div class="social-links d-none d-md-block">
                  <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-                 <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                 <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                 <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
-      </div>
-					</footer>
+                 <a href="https://www.facebook.com/profile.php?id=100064119221715" class="facebook"><i class="bi bi-facebook"></i></a>
+                 <a href="https://instagram.com/moussa_diouf2?igshid=ZDdkNTZiNTM=" class="instagram"><i class="bi bi-instagram"></i></a>
+                 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7049727643130179585?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7049727643130179585%29" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+				 <a href="https://www.youtube.com/@bethelcoaching-moussadiouf9101" class="youtube"><i class="bi bi-youtube"></i></a>
+           </div>
+			</footer>
 

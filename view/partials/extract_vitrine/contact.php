@@ -1,3 +1,4 @@
+
 <section id="contact" class="contact">
       <div class="container">
 
@@ -34,35 +35,72 @@
           </div>
 
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <form action=" public/templates/template_vitrine/forms/contact.php" method="post" role="form" class="php-email-form">
+            
+                <!-- 🌴🌴🌴 Affiche le formulaire d'ajout 🌴🌴🌴 -->
+                <?php 
+                // {
+                //   if (isset($_GET["showFrm"]) && $_GET["showFrm"] == 1) 
+               
+                ?>
+            <form action="contacteController" method="post" role="form" class="php-email-form" enctype="multipart/form-data">
               <div class="row">
                 <div class="form-group col-md-6">
-                  <label for="name">Votre nom</label>
-                  <input type="text" name="name" class="form-control" id="name" required>
+                  <label for="nom">nom</label>
+                  <input type="text" name="nom" class="form-control" id="nom" required>
                 </div>
                 <div class="form-group col-md-6 mt-3 mt-md-0">
-                  <label for="name">Votre Email</label>
-                  <input type="email" class="form-control" name="email" id="email" required>
+                  <label for="email">Email</label>
+                  <input type="text" class="form-control" name="email" id="email" required>
                 </div>
               </div>
               <div class="form-group mt-3">
-                <label for="name">Objet</label>
-                <input type="text" class="form-control" name="subject" id="subject" required>
+                <label for="objet">Objet</label>
+                <input type="text" class="form-control" name="objet" id="objet" required>
               </div>
               <div class="form-group mt-3">
-                <label for="name">Message</label>
+                <label for="message">Message</label>
                 <textarea class="form-control" name="message" rows="10" required></textarea>
               </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
+              <div class="col-lg-12 mb-3">
+                <center>
+                <button type="submit" name="ajouterContact" class="btn"style="background-color: #3c027b; color: #fff;">
+                <b>Envoyer</b></button>
+                  <button type="reset" class="btn btn-danger"><b>Annuler</b></button>
+                </center>
+               </div>
+                <!-- Message  -->
+                <?php 
+                  // if (isset($_GET["sent-message"])) 
+                  // {
+                ?>
+                <div class="alert alert-success text-center" role="alert">
+                  Message envoyer avec succès!
+                </div>
+                <?php 
+                // }
+                ?>
+
               </div>
-              <div class="text-center"><button type="submit">Envoyer Message</button></div>
-            </form>
+      <!-- <script>
+               $("#idForm").submit(function()
+                 {
+                   if ($('#idForm').valid()) {
+                   $("#submit").attr("disabled", "disabled");
+                   return true;
+                    }       
+                });
+    </script> -->
           </div>
 
         </div>
 
       </div>
+      </
+      
+      <?php 
+          // }
+        ?>
+
+
     </section>
+

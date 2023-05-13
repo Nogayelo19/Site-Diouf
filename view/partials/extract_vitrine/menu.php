@@ -1,24 +1,28 @@
+
+
 <section id="topbar" class="d-flex align-items-center">
+<link href="assets/css/styles.css" rel="stylesheet">
+
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope-fill"></i><a href="mailto:contact@example.com"> bethelcoaching@gmail.com</a>
+        <i class="bi bi-envelope-fill"></i>bethelcoaching@gmail.com
         <i class="bi bi-phone-fill phone-icon"></i>+221 77 160 70 93
       </div>
-      <div class="social-links d-none d-md-block">
-        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
       </div>
-    </div>
-  </section>
-.
+      </div>
+      <div class="social-links d-none d-md-block">
+                 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7049727643130179585?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7049727643130179585%29" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+				         <a href="https://www.youtube.com/@bethelcoaching-moussadiouf9101" class="youtube"><i class="bi bi-youtube"></i></a>
+                 <a href="https://www.facebook.com/profile.php?id=100064119221715" class="facebook"><i class="bi bi-facebook"></i></a>
+                 <a href="https://instagram.com/moussa_diouf2?igshid=ZDdkNTZiNTM=" class="instagram"><i class="bi bi-instagram"></i></a>
+   </div>
+      </section>
 
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center">
 
       <h1 class="logo me-auto"><a href="index.php">
-        <img src="public/templates/template_vitrine/assets/img/logo.png" width="100%">
+        <img src="public/templates/template_vitrine/assets/img/logo1.jpg" width="90%">
       </a></h1>
 
 
@@ -51,7 +55,7 @@
         <li><a class="nav-link scrollto " href="#formation">FORMTION</a></li>
           <li><a class="nav-link scrollto" href="#team">CONFÉRENCE</a></li>
           <li><a class="nav-link scrollto" href="#contact">CONTACT</a></li>
-          <li><a class="getstarted scrollto" href="#about">Inscrivez-Vous</a></li>
+          <li><a class="getstarted scrollto" href="#contact">Inscrivez-Vous</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->

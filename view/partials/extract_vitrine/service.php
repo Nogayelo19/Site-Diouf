@@ -1,4 +1,4 @@
-<!-- <section id="services" class="services"> -->
+
      
 <!DOCTYPE html>
 <html>
@@ -20,6 +20,7 @@
     </header>	
     <!-- header END -->
     <!-- Content -->
+    <section id="services" class="services">
     <div class="page-content bg-white">
         <!-- inner page banner -->
         <div class="dlab-bnr-inr overlay-black-middle bg-pt" style="background-image:url(IMG/background.jpg);">
@@ -48,19 +49,14 @@
 						<div class="blog-post blog-single sidebar">
 							<div class="dlab-info">
 								<div class="dlab-media">
-									<img src="public/templates/template_Vitrine/assets/img/fgh.jpg" alt="Coaching">
+	<img src="public/templates/template_Vitrine/assets/img/fgh.jpg" alt="Coaching">
 								</div>
-                                <style>
-                                    .dlab-post-text text .wp-block-quote{
-                                        background-color: 0609b9;
-                                    }
-                                </STYLE>
-								<div class="dlab-post-text text">
-									<blockquote class="wp-block-quote">
-										<p  > <p >Parce que nous avons la conviction qu’aucun coaching ne se ressemble, nos coachs évaluent avec vous vos objectifs afin de vous proposer un accompagnement sur mesure, adapté à votre profil, au contexte de votre demande et à vos besoins. Nos coachs sont
+              <div class="dlab-post-text text">
+									<blockquote class="wp-block-quote" style="background-color: #004d75;">
+				<p  > <p >Parce que nous avons la conviction qu’aucun coaching ne se ressemble, nos coachs évaluent avec vous vos objectifs afin de vous proposer un accompagnement sur mesure, adapté à votre profil, au contexte de votre demande et à vos besoins. Nos coachs sont
                                              habilitées à vous accompagner en langue anglaise ou française, selon votre préférence.</p> </p>
 									</blockquote>
-									<p>Vous avez un projet&nbsp;?<br class='autobr' />
+					<p>Vous avez un projet&nbsp;?<br class='autobr' />
                          Vous voulez créer votre vision&nbsp;? <br class='autobr' />
                          Vous souhaitez clarifier vos buts et objectifs&nbsp;?<br class='autobr' />
                          Vous désirez travailler votre prise de parole en public&nbsp;?<br class='autobr' />

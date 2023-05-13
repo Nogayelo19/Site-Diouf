@@ -25,7 +25,9 @@
   <link href="public/templates/template_vitrine/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="public/templates/template_vitrine/assets/css/style.css" rel="stylesheet">
+  <link href="public/templates/template_vitrine/assets/css/styles.css" rel="stylesheet">
+
+  <!-- <link href="public/templates/template_vitrine/assets/css/style.css" rel="stylesheet"> -->
 
   <!-- =======================================================
   * Template Name: Green - v4.10.0

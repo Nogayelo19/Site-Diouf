@@ -12,7 +12,7 @@
 # General
 --------------------------------------------------------------*/
 
-@import url('https://fonts.googleapis.com/css2?family-Redressed&family-Merriweather:wght@300;400;500&display-swap');
+/* @import url('https://fonts.googleapis.com/css2?family-Redressed&family-Merriweather:wght@300;400;500&display-swap');
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -36,12 +36,12 @@ h4,
 h5,
 h6 {
   font-family: "Raleway", sans-serif;
-}
+} */
 
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
-.back-to-top {
+/* .back-to-top {
   position: fixed;
   visibility: hidden;
   opacity: 0;
@@ -74,7 +74,7 @@ h6 {
 /*--------------------------------------------------------------
 # Top Bar
 --------------------------------------------------------------*/
-#topbar {
+/* #topbar {
   background: #fbfbfb;
   font-size: 15px;
   height: 40px;
@@ -111,12 +111,12 @@ h6 {
 
 #topbar .social-links a:hover {
   color: #5cb874;
-}
+}  */
 
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
-#header {
+/* #header {
   background: #fff;
   transition: all 0.5s;
   z-index: 997;
@@ -147,7 +147,7 @@ h6 {
 
 .scrolled-offset {
   margin-top: 70px;
-}
+} */
 
 /*--------------------------------------------------------------
 # Navigation Menu

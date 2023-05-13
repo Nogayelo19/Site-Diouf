@@ -76,10 +76,10 @@
 }
 .service-box:hover ,.active-service
 {
-    background: #5cb874;
+    background: #004d75;
     border-radius: 5px;
     color: white!important;
-    box-shadow: 0 15px 15px 0 rgba(213,213,213,0.5);
+    box-shadow: 0 15px 15px 0 rgba(2, 34, 107, 0.25);;
 }
 .service-box:hover p
 {
